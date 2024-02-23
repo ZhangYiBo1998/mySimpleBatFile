@@ -1,0 +1,1 @@
+ffmpeg -i output.mp4 -f wav output.wav
